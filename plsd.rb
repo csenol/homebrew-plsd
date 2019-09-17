@@ -2,9 +2,9 @@
 class Plsd < Formula
   desc "Develop Elasticsearch painless scripts painlessly"
   homepage "https://github.com/csenol/plsd"
-  url "https://github.com/csenol/plsd/releases/download/v0.0.4/plsd_0.0.4_Darwin_x86_64.tar.gz"
-  version "0.0.4"
-  sha256 "670b3530e3f86167c54987c33e4885bb9c65e1c8ce41fc397b40f45fe06dd64b"
+  url "https://github.com/csenol/plsd/releases/download/v0.0.5/plsd_0.0.5_Darwin_x86_64.tar.gz"
+  version "0.0.5"
+  sha256 "504506d21883bb88549efc141da9d3b58072436643bf42715c03990428a4cefb"
 
   def install
     bin.install "plsd"
